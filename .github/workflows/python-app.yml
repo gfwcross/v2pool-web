@@ -23,7 +23,7 @@ jobs:
         python main.py
     - name: Markdown to html
       run: |
-        uses: natescherer/markdown-to-html-with-github-style-action@v1
+        uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
         with:
           path: README.md
     - name: Commit
