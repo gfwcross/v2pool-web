@@ -69,7 +69,7 @@ if __name__ == '__main__':
     chinamobile = []
     chinaunicom = []
     for per in share:
-        url = "https://f005.backblazeb2.com/file/gfwcross-uc" + per
+        url = "https://f005.backblazeb2.com/file/gfwcross-uc/" + per
         r = requests.get(url)
         if r.status_code == 200:
             print("success: " + url)
