@@ -21,11 +21,12 @@ jobs:
     - name: Running
       run: |
         python main.py
+        ls
     - name: Markdown to html
       run: |
         uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
         with:
-          path: README.md
+          path: ./README.md
     - name: Commit
       run: |
         git config --global user.email ghost@google.com
