@@ -2,6 +2,7 @@ import json
 import requests
 import base64
 import time
+import markdown as md
 
 class backblaze:
     def __init__(self, application_keyid, application_key, bucket_id):
@@ -39,22 +40,43 @@ class backblaze:
         return res
 
 def fold(summary, detail):
-    return "<details>\n<summary>" + summary + "</summary>\n" + detail + "</details>\n"
+    return "<details><summary>" + summary + "</summary>" + detail + "</details>"
 
 def detailmd(list):
     if (len(list) == 0):
         return "暂无分享的测速数据，不妨在本地测试？\n"
     res = ""
     for per in list:
-        summary = "▼ {}: 高速节点 {} 个, 可用节点 {} 个, 时间 {}".format(
+        summary = "{}: 高速节点 {} 个, 可用节点 {} 个, 时间 {}".format(
             per.get('region'), per.get('good_num'), per.get('running_num'), 
             time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(per.get('uploadTimestamp') / 1000)))
         detail  = "<p>可用节点订阅：{}<br>".format(per.get('running'))
         detail += "高速节点订阅：{}<br>".format(per.get('good'))
         detail += "低延迟节点订阅：{}</p>".format(per.get('low_delay'))
         res += fold(summary, detail)
-        res += "\n"
+        res += "<p></p>"
     return res
+
+def md2html(mdstr):
+    exts = ['markdown.extensions.extra', 'markdown.extensions.codehilite','markdown.extensions.tables','markdown.extensions.toc']
+    html = '''
+    <html>
+      <head>
+        <title>markdown-to-html-github-style</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="github.css">
+    </head>
+    
+    <body>
+    <div id='content'>
+    %s
+    </div>
+    </body>
+    </html>
+    '''
+    ret = md.markdown(mdstr,extensions=exts)
+    return html % ret
 
 if __name__ == '__main__':
     b2 = backblaze('005dd61b9ce80da0000000002', 
@@ -144,9 +166,13 @@ if __name__ == '__main__':
     markdown += "## v2pool 用户分享\n"
     markdown += "更新时间 {}\n\n".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time())))
     
-    markdown += """**以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
+    markdown += """
+**以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
+
 - **电信**: `https://nodes.gfwcross.tech/chinanet.txt`
+
 - **移动**: `https://nodes.gfwcross.tech/chinamobile.txt`
+
 - **联通**: `https://nodes.gfwcross.tech/chinaunicom.txt`
 
 """
@@ -161,9 +187,12 @@ if __name__ == '__main__':
     
     markdown += "### 中国联通 Chinaunicom\n"
     if (origin_chinaunicom == 0): markdown += "<i>暂无数据, 本数据非联通网络环境测试</i>\n"
-    markdown += detailmd(chinaunicom)
+    markdown += detailmd(chinaunicom) 
 
     # 输出到 readme.md
     with open('./README.md', 'w', encoding="utf-8") as f:
         f.write(markdown)
     
+    # 输出到 readme.html
+    with open('./index.html', 'w', encoding="utf-8") as f:
+        f.write(md2html(markdown))
