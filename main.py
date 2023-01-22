@@ -40,7 +40,7 @@ class backblaze:
         return res
 
 def fold(summary, detail):
-    return "<details><summary>" + summary + "</summary>" + detail + "</details>"
+    return "<details><summary>" + summary + "</summary>" + detail + "</details>\n"
 
 def detailmd(list):
     if (len(list) == 0):
@@ -62,7 +62,7 @@ def md2html(mdstr):
     html = '''
     <html>
       <head>
-        <title>v2pool 用户分享</title>
+        <title>markdown-to-html-github-style</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="github.css">
@@ -182,20 +182,20 @@ if __name__ == '__main__':
 
 """
 
-    markdown += "### 中国电信 Chinanet\n"
+    markdown += "\n### 中国电信 Chinanet\n"
     if (origin_chinanet == 0): markdown += "<i>暂无数据, 本数据非电信网络环境测试</i>\n"
     markdown += detailmd(chinanet)
     
-    markdown += "### 中国移动 Chinamobile\n"
+    markdown += "\n### 中国移动 Chinamobile\n"
     if (origin_chinamobile == 0): markdown += "<i>暂无数据, 本数据非移动网络环境测试</i>\n"
     markdown += detailmd(chinamobile)
     
-    markdown += "### 中国联通 Chinaunicom\n"
+    markdown += "\n### 中国联通 Chinaunicom\n"
     if (origin_chinaunicom == 0): markdown += "<i>暂无数据, 本数据非联通网络环境测试</i>\n"
     markdown += detailmd(chinaunicom) 
 
     # 输出到 readme.md
-    with open('./README.md', 'w', encoding="utf-8") as f:
+    with open('./index.md', 'w', encoding="utf-8") as f:
         f.write(markdown)
     
     # 输出到 readme.html
