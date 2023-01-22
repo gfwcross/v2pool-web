@@ -1,0 +1,39 @@
+name: Python application
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        pip install requests
+    - name: Running
+      run: |
+        python main.py
+    - name: Markdown to html
+      run: |
+        uses: natescherer/markdown-to-html-with-github-style-action@v1
+        with:
+          path: README.md
+    - name: Commit
+      run: |
+        git config --global user.email ghost@google.com
+        git config --global user.name ghost
+        git add .
+        git commit -m "Update by Bot" -a
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
