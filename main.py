@@ -62,7 +62,7 @@ def md2html(mdstr):
     html = '''
     <html>
       <head>
-        <title>markdown-to-html-github-style</title>
+        <title>v2pool 用户分享</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="github.css">
