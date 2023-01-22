@@ -66,6 +66,11 @@ def md2html(mdstr):
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="github.css">
+        <script async src="https://cdn.panelbear.com/analytics.js?site=Fr2EL4zRhjK"></script>
+        <script>
+            window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+            panelbear('config', { site: 'Fr2EL4zRhjK' });
+        </script>
     </head>
     
     <body>
