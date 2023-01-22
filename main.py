@@ -142,11 +142,9 @@ if __name__ == '__main__':
     # 打印 markdown
     markdown = ""
     markdown += "## v2pool 用户分享\n"
-    markdown += "更新时间 {}\n".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time())))
+    markdown += "更新时间 {}\n\n".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time())))
     
-    markdown += """
-    **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
-
+    markdown += """**以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
 - **电信**: `https://nodes.gfwcross.tech/chinanet.txt`
 - **移动**: `https://nodes.gfwcross.tech/chinamobile.txt`
 - **联通**: `https://nodes.gfwcross.tech/chinaunicom.txt`
