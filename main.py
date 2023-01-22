@@ -168,8 +168,9 @@ if __name__ == '__main__':
     
     # 打印 markdown
     markdown = ""
-    markdown += "## v2pool 用户分享\n"
-    markdown += "更新时间 {}\n\n".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time())))
+    markdown += "# v2pool 用户分享\n"
+    markdown += "## 项目地址：<https://github.com/gfwcross/v2pool>"
+    markdown += "更新时间 {}\n\n".format(time.strftime("%Y-%m-%d %H:%M", time.localtime(time.time())))
     
     markdown += """
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
