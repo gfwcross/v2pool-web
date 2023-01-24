@@ -48,9 +48,10 @@ def detailmd(list):
         return "暂无分享的测速数据，不妨在本地测试？\n"
     res = ""
     for per in list:
-        summary = "{}: 高速节点 {} 个, 可用节点 {} 个, 时间 {}".format(
+        summary = "{}: 高速 {} / 可用 {}, 时间 {}, 本地速度 {} Mbps".format(
             per.get('detail'), per.get('good_num'), per.get('running_num'), 
-            time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(per.get('uploadTimestamp') / 1000)))
+            time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(per.get('uploadTimestamp') / 1000)),
+            per.get('netspeed'))
         detail  = "<p>可用节点订阅：{}<br>".format(per.get('running'))
         detail += "高速节点订阅：{}<br>".format(per.get('good'))
         detail += "低延迟节点订阅：{}</p>".format(per.get('low_delay'))
