@@ -31,12 +31,13 @@ class backblaze:
         r = requests.get(self.api_url + '/b2api/v2/b2_list_file_names', headers = headers, params = { 'bucketId': self.bucket_id })
         if r.status_code != 200:
             return []
+        else:
+            print(r.json())
         res = []
         nowtimestamp = int(time.time() * 1000)
         for per in r.json().get('files'):
-            res.append(per.get('fileName'))
-            if (nowtimestamp - per.get('uploadTimestamp') > 86400000 * 2):
-                break
+            if (nowtimestamp - per.get('uploadTimestamp') < 86400000 * 2):
+                res.append(per.get('fileName'))
         return res
 
 def fold(summary, detail):
@@ -48,7 +49,7 @@ def detailmd(list):
     res = ""
     for per in list:
         summary = "{}: 高速节点 {} 个, 可用节点 {} 个, 时间 {}".format(
-            per.get('region'), per.get('good_num'), per.get('running_num'), 
+            per.get('detail'), per.get('good_num'), per.get('running_num'), 
             time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(per.get('uploadTimestamp') / 1000)))
         detail  = "<p>可用节点订阅：{}<br>".format(per.get('running'))
         detail += "高速节点订阅：{}<br>".format(per.get('good'))
@@ -84,7 +85,8 @@ def md2html(mdstr):
     return html % ret
 
 if __name__ == '__main__':
-    b2 = backblaze('005dd61b9ce80da0000000002', 
+    b2 = backblaze(
+        '005dd61b9ce80da0000000002', 
         'K005RAPh5+ub6jQ0r32to+qGeU/06GY', 
         '0d7d26114b59ccfe88500d1a')
     if b2.get_auth():
@@ -103,6 +105,7 @@ if __name__ == '__main__':
         else:
             print("failed: " + url)
             continue
+        r.encoding = 'utf-8'
         info = json.loads(r.text)
         if info.get('isp') == 'Chinanet':
             chinanet.append(info)
