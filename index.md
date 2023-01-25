@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-01-25 10:35**
+**更新时间 2023-01-25 11:28**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -21,10 +21,10 @@
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>广东省广州市白云区 电信: 高速 83 / 可用 126, 时间 2023-01-24 16:54:03, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/25cnVU/running.txt<br>高速节点订阅：https://transfer.sh/A9572e/good.txt<br>低延迟节点订阅：https://transfer.sh/NvbssX/low_delay.txt</p></details>
+<details><summary>广东省广州市 联通: 高速 115 / 可用 132, 时间 2023-01-25 11:00:30, 本地速度 180 Mbps</summary><p>可用节点订阅：https://transfer.sh/Rav1dI/running.txt<br>高速节点订阅：https://transfer.sh/0VjdEF/good.txt<br>低延迟节点订阅：https://transfer.sh/qPy5vN/low_delay.txt</p></details>
+<p></p><details><summary>广东省广州市白云区 电信: 高速 83 / 可用 126, 时间 2023-01-24 16:54:03, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/25cnVU/running.txt<br>高速节点订阅：https://transfer.sh/A9572e/good.txt<br>低延迟节点订阅：https://transfer.sh/NvbssX/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
-<i>暂无数据, 本数据非联通网络环境测试</i>
-<details><summary>广东省广州市白云区 电信: 高速 83 / 可用 126, 时间 2023-01-24 16:54:03, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/25cnVU/running.txt<br>高速节点订阅：https://transfer.sh/A9572e/good.txt<br>低延迟节点订阅：https://transfer.sh/NvbssX/low_delay.txt</p></details>
+<details><summary>广东省广州市 联通: 高速 115 / 可用 132, 时间 2023-01-25 11:00:30, 本地速度 180 Mbps</summary><p>可用节点订阅：https://transfer.sh/Rav1dI/running.txt<br>高速节点订阅：https://transfer.sh/0VjdEF/good.txt<br>低延迟节点订阅：https://transfer.sh/qPy5vN/low_delay.txt</p></details>
 <p></p>
