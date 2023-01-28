@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-01-28 13:25**
+**更新时间 2023-01-28 13:37**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -22,9 +22,10 @@
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
 <details><summary>四川省成都市双流区 电信: 高速 93 / 可用 124, 时间 2023-01-27 11:01:43, 本地速度 147 Mbps</summary><p>可用节点订阅：https://transfer.sh/nEOeiT/running.txt<br>高速节点订阅：https://transfer.sh/2rtzPK/good.txt<br>低延迟节点订阅：Error</p></details>
-<p></p><details><summary>云南省昆明市 联通: 高速 75 / 可用 117, 时间 2023-01-28 11:46:20, 本地速度 157 Mbps</summary><p>可用节点订阅：https://transfer.sh/uY5GRQ/running.txt<br>高速节点订阅：https://transfer.sh/kIRF2I/good.txt<br>低延迟节点订阅：https://transfer.sh/7y9qdw/low_delay.txt</p></details>
+<p></p><details><summary>四川省自贡市 联通: 高速 77 / 可用 106, 时间 2023-01-28 13:33:04, 本地速度 69 Mbps</summary><p>可用节点订阅：https://transfer.sh/BskPff/running.txt<br>高速节点订阅：https://transfer.sh/BHBFNC/good.txt<br>低延迟节点订阅：https://transfer.sh/64GsHG/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
-<details><summary>云南省昆明市 联通: 高速 75 / 可用 117, 时间 2023-01-28 11:46:20, 本地速度 157 Mbps</summary><p>可用节点订阅：https://transfer.sh/uY5GRQ/running.txt<br>高速节点订阅：https://transfer.sh/kIRF2I/good.txt<br>低延迟节点订阅：https://transfer.sh/7y9qdw/low_delay.txt</p></details>
+<details><summary>四川省自贡市 联通: 高速 77 / 可用 106, 时间 2023-01-28 13:33:04, 本地速度 69 Mbps</summary><p>可用节点订阅：https://transfer.sh/BskPff/running.txt<br>高速节点订阅：https://transfer.sh/BHBFNC/good.txt<br>低延迟节点订阅：https://transfer.sh/64GsHG/low_delay.txt</p></details>
+<p></p><details><summary>云南省昆明市 联通: 高速 75 / 可用 117, 时间 2023-01-28 11:46:20, 本地速度 157 Mbps</summary><p>可用节点订阅：https://transfer.sh/uY5GRQ/running.txt<br>高速节点订阅：https://transfer.sh/kIRF2I/good.txt<br>低延迟节点订阅：https://transfer.sh/7y9qdw/low_delay.txt</p></details>
 <p></p>
