@@ -69,6 +69,7 @@ def md2html(mdstr):
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="github.css">
         <script async src="https://cdn.panelbear.com/analytics.js?site=Fr2EL4zRhjK"></script>
+        <meta name="a.validate.02" content="DazyKCxRNxqsV5x_T3R-r1wQGGvaBlyLngft" />
         <script>
             window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
             panelbear('config', { site: 'Fr2EL4zRhjK' });
