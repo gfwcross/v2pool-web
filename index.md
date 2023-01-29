@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-01-29 10:47**
+**更新时间 2023-01-29 11:19**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -13,15 +13,14 @@
 
 
 ### 中国电信 Chinanet
-<details><summary>四川省成都市双流区 电信: 高速 93 / 可用 124, 时间 2023-01-27 11:01:43, 本地速度 147 Mbps</summary><p>可用节点订阅：https://transfer.sh/nEOeiT/running.txt<br>高速节点订阅：https://transfer.sh/2rtzPK/good.txt<br>低延迟节点订阅：Error</p></details>
-<p></p><details><summary>湖南省长沙市 电信: 高速 77 / 可用 121, 时间 2023-01-28 13:51:09, 本地速度 258 Mbps</summary><p>可用节点订阅：https://transfer.sh/Re4Gs6/running.txt<br>高速节点订阅：https://transfer.sh/89LB7J/good.txt<br>低延迟节点订阅：https://transfer.sh/ASydhW/low_delay.txt</p></details>
+<details><summary>湖南省长沙市 电信: 高速 77 / 可用 121, 时间 2023-01-28 13:51:09, 本地速度 258 Mbps</summary><p>可用节点订阅：https://transfer.sh/Re4Gs6/running.txt<br>高速节点订阅：https://transfer.sh/89LB7J/good.txt<br>低延迟节点订阅：https://transfer.sh/ASydhW/low_delay.txt</p></details>
 <p></p><details><summary>陕西省西安市 电信: 高速 47 / 可用 121, 时间 2023-01-27 16:49:33, 本地速度 319 Mbps</summary><p>可用节点订阅：https://transfer.sh/isU5Gk/running.txt<br>高速节点订阅：https://transfer.sh/m3QfIo/good.txt<br>低延迟节点订阅：https://transfer.sh/zYaPdo/low_delay.txt</p></details>
 <p></p><details><summary>河北省秦皇岛市 电信: 高速 27 / 可用 53, 时间 2023-01-27 20:39:30, 本地速度 83 Mbps</summary><p>可用节点订阅：https://transfer.sh/PSt5kj/running.txt<br>高速节点订阅：https://transfer.sh/qKQazU/good.txt<br>低延迟节点订阅：https://transfer.sh/ECjf0X/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>四川省成都市双流区 电信: 高速 93 / 可用 124, 时间 2023-01-27 11:01:43, 本地速度 147 Mbps</summary><p>可用节点订阅：https://transfer.sh/nEOeiT/running.txt<br>高速节点订阅：https://transfer.sh/2rtzPK/good.txt<br>低延迟节点订阅：Error</p></details>
+<details><summary>湖南省长沙市 电信: 高速 77 / 可用 121, 时间 2023-01-28 13:51:09, 本地速度 258 Mbps</summary><p>可用节点订阅：https://transfer.sh/Re4Gs6/running.txt<br>高速节点订阅：https://transfer.sh/89LB7J/good.txt<br>低延迟节点订阅：https://transfer.sh/ASydhW/low_delay.txt</p></details>
 <p></p><details><summary>四川省自贡市 联通: 高速 77 / 可用 106, 时间 2023-01-28 13:33:04, 本地速度 69 Mbps</summary><p>可用节点订阅：https://transfer.sh/BskPff/running.txt<br>高速节点订阅：https://transfer.sh/BHBFNC/good.txt<br>低延迟节点订阅：https://transfer.sh/64GsHG/low_delay.txt</p></details>
 <p></p>
 
