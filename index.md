@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-01-30 15:37**
+**更新时间 2023-01-30 16:23**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -25,7 +25,5 @@
 
 ### 中国联通 Chinaunicom
 <details><summary>河北省邯郸市 联通: 高速 58 / 可用 85, 时间 2023-01-28 20:47:08, 本地速度 22 Mbps</summary><p>可用节点订阅：https://transfer.sh/KDGCTx/running.txt<br>高速节点订阅：https://transfer.sh/osqWDC/good.txt<br>低延迟节点订阅：https://transfer.sh/20Tc9C/low_delay.txt</p></details>
-<p></p><details><summary>河南省南阳市 联通: 高速 36 / 可用 66, 时间 2023-01-28 16:08:12, 本地速度 93 Mbps</summary><p>可用节点订阅：https://transfer.sh/fPJ8oi/running.txt<br>高速节点订阅：https://transfer.sh/vJ3KuK/good.txt<br>低延迟节点订阅：https://transfer.sh/B05w79/low_delay.txt</p></details>
 <p></p><details><summary>河南省平顶山市 联通: 高速 7 / 可用 64, 时间 2023-01-28 23:14:48, 本地速度 380 Mbps</summary><p>可用节点订阅：https://transfer.sh/1XOCgB/running.txt<br>高速节点订阅：https://transfer.sh/h4g5DG/good.txt<br>低延迟节点订阅：https://transfer.sh/unfF8W/low_delay.txt</p></details>
-<p></p><details><summary>河南省南阳市 联通: 高速 2 / 可用 8, 时间 2023-01-28 15:40:36, 本地速度 125 Mbps</summary><p>可用节点订阅：https://transfer.sh/ckRb8g/running.txt<br>高速节点订阅：https://transfer.sh/FwD5eg/good.txt<br>低延迟节点订阅：https://transfer.sh/NO2oiD/low_delay.txt</p></details>
 <p></p>
