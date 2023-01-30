@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-01-30 23:38**
+**更新时间 2023-01-31 00:25**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
