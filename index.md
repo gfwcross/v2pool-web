@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-02-02 20:37**
+**更新时间 2023-02-02 21:29**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -21,10 +21,9 @@
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
 <details><summary>上海市上海市 电信: 高速 132 / 可用 137, 时间 2023-02-02 06:31:49, 本地速度 79 Mbps</summary><p>可用节点订阅：https://transfer.sh/jC1g6i/running.txt<br>高速节点订阅：https://transfer.sh/5V0kdq/good.txt<br>低延迟节点订阅：https://transfer.sh/MShOPN/low_delay.txt</p></details>
-<p></p><details><summary>河北省邯郸市 联通: 高速 33 / 可用 88, 时间 2023-01-31 21:03:37, 本地速度 30 Mbps</summary><p>可用节点订阅：https://transfer.sh/M9omBy/running.txt<br>高速节点订阅：https://transfer.sh/WdcBDl/good.txt<br>低延迟节点订阅：https://transfer.sh/WJKSFk/low_delay.txt</p></details>
+<p></p><details><summary>江苏省苏州市 联通: 高速 27 / 可用 86, 时间 2023-01-31 22:36:14, 本地速度 15 Mbps</summary><p>可用节点订阅：https://transfer.sh/NXw6dX/running.txt<br>高速节点订阅：https://transfer.sh/k8AcSE/good.txt<br>低延迟节点订阅：https://transfer.sh/2pHEg6/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
-<details><summary>河北省邯郸市 联通: 高速 33 / 可用 88, 时间 2023-01-31 21:03:37, 本地速度 30 Mbps</summary><p>可用节点订阅：https://transfer.sh/M9omBy/running.txt<br>高速节点订阅：https://transfer.sh/WdcBDl/good.txt<br>低延迟节点订阅：https://transfer.sh/WJKSFk/low_delay.txt</p></details>
-<p></p><details><summary>江苏省苏州市 联通: 高速 27 / 可用 86, 时间 2023-01-31 22:36:14, 本地速度 15 Mbps</summary><p>可用节点订阅：https://transfer.sh/NXw6dX/running.txt<br>高速节点订阅：https://transfer.sh/k8AcSE/good.txt<br>低延迟节点订阅：https://transfer.sh/2pHEg6/low_delay.txt</p></details>
+<details><summary>江苏省苏州市 联通: 高速 27 / 可用 86, 时间 2023-01-31 22:36:14, 本地速度 15 Mbps</summary><p>可用节点订阅：https://transfer.sh/NXw6dX/running.txt<br>高速节点订阅：https://transfer.sh/k8AcSE/good.txt<br>低延迟节点订阅：https://transfer.sh/2pHEg6/low_delay.txt</p></details>
 <p></p>
