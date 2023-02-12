@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-02-12 18:38**
+**更新时间 2023-02-12 19:14**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -13,18 +13,17 @@
 
 
 ### 中国电信 Chinanet
-<details><summary>江苏省徐州市 电信: 高速 67 / 可用 91, 时间 2023-02-10 18:44:33, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/LMn3jW/running.txt<br>高速节点订阅：https://transfer.sh/DRbxvX/good.txt<br>低延迟节点订阅：https://transfer.sh/qImFMj/low_delay.txt</p></details>
-<p></p><details><summary>安徽省合肥市 电信: 高速 62 / 可用 117, 时间 2023-02-11 11:47:16, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/Im6zjy/running.txt<br>高速节点订阅：https://transfer.sh/3uso6W/good.txt<br>低延迟节点订阅：https://transfer.sh/1Ev8XP/low_delay.txt</p></details>
+<details><summary>安徽省合肥市 电信: 高速 62 / 可用 117, 时间 2023-02-11 11:47:16, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/Im6zjy/running.txt<br>高速节点订阅：https://transfer.sh/3uso6W/good.txt<br>低延迟节点订阅：https://transfer.sh/1Ev8XP/low_delay.txt</p></details>
 <p></p><details><summary>安徽省合肥市 电信: 高速 21 / 可用 36, 时间 2023-02-12 13:02:57, 本地速度 87 Mbps</summary><p>可用节点订阅：https://transfer.sh/pJP2WW/running.txt<br>高速节点订阅：https://transfer.sh/IYchdd/good.txt<br>低延迟节点订阅：https://transfer.sh/CzpiHc/low_delay.txt</p></details>
 <p></p><details><summary>河北省石家庄市 电信: 高速 17 / 可用 58, 时间 2023-02-12 16:15:37, 本地速度 364 Mbps</summary><p>可用节点订阅：https://transfer.sh/YFr9kq/running.txt<br>高速节点订阅：https://transfer.sh/lWSLb1/good.txt<br>低延迟节点订阅：https://transfer.sh/s3Pnxj/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>江苏省徐州市 电信: 高速 67 / 可用 91, 时间 2023-02-10 18:44:33, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/LMn3jW/running.txt<br>高速节点订阅：https://transfer.sh/DRbxvX/good.txt<br>低延迟节点订阅：https://transfer.sh/qImFMj/low_delay.txt</p></details>
+<details><summary>安徽省合肥市 电信: 高速 62 / 可用 117, 时间 2023-02-11 11:47:16, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/Im6zjy/running.txt<br>高速节点订阅：https://transfer.sh/3uso6W/good.txt<br>低延迟节点订阅：https://transfer.sh/1Ev8XP/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
 <i>暂无数据, 本数据非联通网络环境测试</i>
-<details><summary>江苏省徐州市 电信: 高速 67 / 可用 91, 时间 2023-02-10 18:44:33, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/LMn3jW/running.txt<br>高速节点订阅：https://transfer.sh/DRbxvX/good.txt<br>低延迟节点订阅：https://transfer.sh/qImFMj/low_delay.txt</p></details>
+<details><summary>安徽省合肥市 电信: 高速 62 / 可用 117, 时间 2023-02-11 11:47:16, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/Im6zjy/running.txt<br>高速节点订阅：https://transfer.sh/3uso6W/good.txt<br>低延迟节点订阅：https://transfer.sh/1Ev8XP/low_delay.txt</p></details>
 <p></p>
