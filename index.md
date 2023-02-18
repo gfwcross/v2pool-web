@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-02-18 11:19**
+**更新时间 2023-02-18 12:35**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -14,6 +14,7 @@
 
 ### 中国电信 Chinanet
 <details><summary>安徽省合肥市 电信: 高速 45 / 可用 60, 时间 2023-02-17 21:07:46, 本地速度 42 Mbps</summary><p>可用节点订阅：https://transfer.sh/72YW9f/running.txt<br>高速节点订阅：https://transfer.sh/D5qsPF/good.txt<br>低延迟节点订阅：https://transfer.sh/Nb0wwz/low_delay.txt</p></details>
+<p></p><details><summary>安徽省芜湖市 电信: 高速 37 / 可用 40, 时间 2023-02-18 12:01:13, 本地速度 87 Mbps</summary><p>可用节点订阅：https://transfer.sh/CKvol5/running.txt<br>高速节点订阅：https://transfer.sh/Ytqh1D/good.txt<br>低延迟节点订阅：https://transfer.sh/zHPr85/low_delay.txt</p></details>
 <p></p><details><summary>上海市 电信: 高速 0 / 可用 0, 时间 2023-02-17 14:34:33, 本地速度 13 Mbps</summary><p>可用节点订阅：https://transfer.sh/1VdNoA/running.txt<br>高速节点订阅：https://transfer.sh/otBkhW/good.txt<br>低延迟节点订阅：https://transfer.sh/NfDLkk/low_delay.txt</p></details>
 <p></p>
 
