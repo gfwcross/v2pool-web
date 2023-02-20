@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-02-20 13:37**
+**更新时间 2023-02-20 14:24**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -13,15 +13,16 @@
 
 
 ### 中国电信 Chinanet
-<details><summary>安徽省芜湖市 电信: 高速 26 / 可用 61, 时间 2023-02-18 22:44:37, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/5oxu7n/running.txt<br>高速节点订阅：https://transfer.sh/pvb7Pm/good.txt<br>低延迟节点订阅：https://transfer.sh/NDaX1y/low_delay.txt</p></details>
+<details><summary>安徽省芜湖市 电信: 高速 43 / 可用 42, 时间 2023-02-20 14:13:52, 本地速度 14 Mbps</summary><p>可用节点订阅：https://transfer.sh/vUjaMF/running.txt<br>高速节点订阅：https://transfer.sh/oaXCAL/good.txt<br>低延迟节点订阅：https://transfer.sh/eExYsC/low_delay.txt</p></details>
+<p></p><details><summary>安徽省芜湖市 电信: 高速 26 / 可用 61, 时间 2023-02-18 22:44:37, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/5oxu7n/running.txt<br>高速节点订阅：https://transfer.sh/pvb7Pm/good.txt<br>低延迟节点订阅：https://transfer.sh/NDaX1y/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>安徽省芜湖市 电信: 高速 26 / 可用 61, 时间 2023-02-18 22:44:37, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/5oxu7n/running.txt<br>高速节点订阅：https://transfer.sh/pvb7Pm/good.txt<br>低延迟节点订阅：https://transfer.sh/NDaX1y/low_delay.txt</p></details>
+<details><summary>安徽省芜湖市 电信: 高速 43 / 可用 42, 时间 2023-02-20 14:13:52, 本地速度 14 Mbps</summary><p>可用节点订阅：https://transfer.sh/vUjaMF/running.txt<br>高速节点订阅：https://transfer.sh/oaXCAL/good.txt<br>低延迟节点订阅：https://transfer.sh/eExYsC/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
 <i>暂无数据, 本数据非联通网络环境测试</i>
-<details><summary>安徽省芜湖市 电信: 高速 26 / 可用 61, 时间 2023-02-18 22:44:37, 本地速度 86 Mbps</summary><p>可用节点订阅：https://transfer.sh/5oxu7n/running.txt<br>高速节点订阅：https://transfer.sh/pvb7Pm/good.txt<br>低延迟节点订阅：https://transfer.sh/NDaX1y/low_delay.txt</p></details>
+<details><summary>安徽省芜湖市 电信: 高速 43 / 可用 42, 时间 2023-02-20 14:13:52, 本地速度 14 Mbps</summary><p>可用节点订阅：https://transfer.sh/vUjaMF/running.txt<br>高速节点订阅：https://transfer.sh/oaXCAL/good.txt<br>低延迟节点订阅：https://transfer.sh/eExYsC/low_delay.txt</p></details>
 <p></p>
