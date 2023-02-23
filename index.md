@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-02-23 15:37**
+**更新时间 2023-02-23 16:24**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -13,15 +13,16 @@
 
 
 ### 中国电信 Chinanet
-<details><summary>安徽省合肥市 电信: 高速 63 / 可用 115, 时间 2023-02-21 20:39:21, 本地速度 85 Mbps</summary><p>可用节点订阅：https://transfer.sh/bNO2b3/running.txt<br>高速节点订阅：https://transfer.sh/WqUtj1/good.txt<br>低延迟节点订阅：https://transfer.sh/3rotlS/low_delay.txt</p></details>
+<details><summary>陕西省榆林市 电信: 高速 66 / 可用 104, 时间 2023-02-23 15:58:44, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/gvvPAf/running.txt<br>高速节点订阅：https://transfer.sh/QC6iwb/good.txt<br>低延迟节点订阅：https://transfer.sh/c6Ikr5/low_delay.txt</p></details>
+<p></p><details><summary>安徽省合肥市 电信: 高速 63 / 可用 115, 时间 2023-02-21 20:39:21, 本地速度 85 Mbps</summary><p>可用节点订阅：https://transfer.sh/bNO2b3/running.txt<br>高速节点订阅：https://transfer.sh/WqUtj1/good.txt<br>低延迟节点订阅：https://transfer.sh/3rotlS/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>安徽省合肥市 电信: 高速 63 / 可用 115, 时间 2023-02-21 20:39:21, 本地速度 85 Mbps</summary><p>可用节点订阅：https://transfer.sh/bNO2b3/running.txt<br>高速节点订阅：https://transfer.sh/WqUtj1/good.txt<br>低延迟节点订阅：https://transfer.sh/3rotlS/low_delay.txt</p></details>
+<details><summary>陕西省榆林市 电信: 高速 66 / 可用 104, 时间 2023-02-23 15:58:44, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/gvvPAf/running.txt<br>高速节点订阅：https://transfer.sh/QC6iwb/good.txt<br>低延迟节点订阅：https://transfer.sh/c6Ikr5/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
 <i>暂无数据, 本数据非联通网络环境测试</i>
-<details><summary>安徽省合肥市 电信: 高速 63 / 可用 115, 时间 2023-02-21 20:39:21, 本地速度 85 Mbps</summary><p>可用节点订阅：https://transfer.sh/bNO2b3/running.txt<br>高速节点订阅：https://transfer.sh/WqUtj1/good.txt<br>低延迟节点订阅：https://transfer.sh/3rotlS/low_delay.txt</p></details>
+<details><summary>陕西省榆林市 电信: 高速 66 / 可用 104, 时间 2023-02-23 15:58:44, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/gvvPAf/running.txt<br>高速节点订阅：https://transfer.sh/QC6iwb/good.txt<br>低延迟节点订阅：https://transfer.sh/c6Ikr5/low_delay.txt</p></details>
 <p></p>
