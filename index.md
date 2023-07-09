@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-07-09 21:37**
+**更新时间 2023-07-09 22:15**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -18,7 +18,6 @@
 
 ### 中国移动 Chinamobile
 <details><summary>广东省珠海市 移动: 高速 15 / 可用 84, 时间 2023-07-08 17:19:08, 本地速度 236 Mbps</summary><p>可用节点订阅：https://transfer.sh/rDG4o7eHon/running.txt<br>高速节点订阅：https://transfer.sh/aD8mnixBq2/good.txt<br>低延迟节点订阅：https://transfer.sh/GOpf8I5UGu/low_delay.txt</p></details>
-<p></p><details><summary>广西壮族自治区南宁市 移动: 高速 13 / 可用 56, 时间 2023-07-07 21:51:03, 本地速度 82 Mbps</summary><p>可用节点订阅：https://transfer.sh/WJ0jNqaSic/running.txt<br>高速节点订阅：https://transfer.sh/06gOt7rpTO/good.txt<br>低延迟节点订阅：https://transfer.sh/aaROj5bfri/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
