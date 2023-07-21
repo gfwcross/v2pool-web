@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-07-21 23:37**
+**更新时间 2023-07-22 00:21**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -15,7 +15,6 @@
 ### 中国电信 Chinanet
 <i>暂无数据, 本数据非电信网络环境测试</i>
 <details><summary>江苏省宿迁市 移动: 高速 34 / 可用 44, 时间 2023-07-21 20:51:03, 本地速度 8 Mbps</summary><p>可用节点订阅：https://transfer.sh/CEf5GB4DAs/running.txt<br>高速节点订阅：https://transfer.sh/hoEfvapzSf/good.txt<br>低延迟节点订阅：https://transfer.sh/7GKFJkGHow/low_delay.txt</p></details>
-<p></p><details><summary>河南省许昌市 联通: 高速 2 / 可用 21, 时间 2023-07-19 23:55:34, 本地速度 42 Mbps</summary><p>可用节点订阅：https://transfer.sh/lJ7HftoU9A/running.txt<br>高速节点订阅：https://transfer.sh/EtHVGWJyMi/good.txt<br>低延迟节点订阅：https://transfer.sh/fYh17Vbc6H/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
@@ -23,5 +22,6 @@
 <p></p>
 
 ### 中国联通 Chinaunicom
-<details><summary>河南省许昌市 联通: 高速 2 / 可用 21, 时间 2023-07-19 23:55:34, 本地速度 42 Mbps</summary><p>可用节点订阅：https://transfer.sh/lJ7HftoU9A/running.txt<br>高速节点订阅：https://transfer.sh/EtHVGWJyMi/good.txt<br>低延迟节点订阅：https://transfer.sh/fYh17Vbc6H/low_delay.txt</p></details>
+<i>暂无数据, 本数据非联通网络环境测试</i>
+<details><summary>江苏省宿迁市 移动: 高速 34 / 可用 44, 时间 2023-07-21 20:51:03, 本地速度 8 Mbps</summary><p>可用节点订阅：https://transfer.sh/CEf5GB4DAs/running.txt<br>高速节点订阅：https://transfer.sh/hoEfvapzSf/good.txt<br>低延迟节点订阅：https://transfer.sh/7GKFJkGHow/low_delay.txt</p></details>
 <p></p>
