@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-07-24 21:37**
+**更新时间 2023-07-24 22:16**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -14,12 +14,13 @@
 
 ### 中国电信 Chinanet
 <i>暂无数据, 本数据非电信网络环境测试</i>
-<details><summary>河南省许昌市 联通: 高速 10 / 可用 42, 时间 2023-07-22 22:49:37, 本地速度 128 Mbps</summary><p>可用节点订阅：https://transfer.sh/nj9BAqzNA8/running.txt<br>高速节点订阅：https://transfer.sh/hlb5piB2HW/good.txt<br>低延迟节点订阅：https://transfer.sh/dQ2im3Y19U/low_delay.txt</p></details>
-<p></p><details><summary>中国 移动: 高速 0 / 可用 0, 时间 2023-07-22 22:23:45, 本地速度 28 Mbps</summary><p>可用节点订阅：https://transfer.sh/e9eAlLKMUA/running.txt<br>高速节点订阅：https://transfer.sh/wAxxiUwmAj/good.txt<br>低延迟节点订阅：https://transfer.sh/R5qen1yRTh/low_delay.txt</p></details>
+<details><summary>江苏省宿迁市 移动: 高速 13 / 可用 35, 时间 2023-07-24 21:54:45, 本地速度 7 Mbps</summary><p>可用节点订阅：https://transfer.sh/0N6Cfnr4UL/running.txt<br>高速节点订阅：https://transfer.sh/SUiyo6p9Ns/good.txt<br>低延迟节点订阅：https://transfer.sh/OsJTxQsIIz/low_delay.txt</p></details>
+<p></p><details><summary>河南省许昌市 联通: 高速 10 / 可用 42, 时间 2023-07-22 22:49:37, 本地速度 128 Mbps</summary><p>可用节点订阅：https://transfer.sh/nj9BAqzNA8/running.txt<br>高速节点订阅：https://transfer.sh/hlb5piB2HW/good.txt<br>低延迟节点订阅：https://transfer.sh/dQ2im3Y19U/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
-<details><summary>中国 移动: 高速 0 / 可用 0, 时间 2023-07-22 22:23:45, 本地速度 28 Mbps</summary><p>可用节点订阅：https://transfer.sh/e9eAlLKMUA/running.txt<br>高速节点订阅：https://transfer.sh/wAxxiUwmAj/good.txt<br>低延迟节点订阅：https://transfer.sh/R5qen1yRTh/low_delay.txt</p></details>
+<details><summary>江苏省宿迁市 移动: 高速 13 / 可用 35, 时间 2023-07-24 21:54:45, 本地速度 7 Mbps</summary><p>可用节点订阅：https://transfer.sh/0N6Cfnr4UL/running.txt<br>高速节点订阅：https://transfer.sh/SUiyo6p9Ns/good.txt<br>低延迟节点订阅：https://transfer.sh/OsJTxQsIIz/low_delay.txt</p></details>
+<p></p><details><summary>中国 移动: 高速 0 / 可用 0, 时间 2023-07-22 22:23:45, 本地速度 28 Mbps</summary><p>可用节点订阅：https://transfer.sh/e9eAlLKMUA/running.txt<br>高速节点订阅：https://transfer.sh/wAxxiUwmAj/good.txt<br>低延迟节点订阅：https://transfer.sh/R5qen1yRTh/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
