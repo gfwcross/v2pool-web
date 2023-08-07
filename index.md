@@ -1,6 +1,6 @@
 # v2pool 用户分享
 ## 项目地址：<https://github.com/gfwcross/v2pool>
-**更新时间 2023-07-28 21:37**
+**更新时间 2023-08-07 14:20**
 
 
 **以下为 `base64` 订阅，适用于 `v2rayN`, `Clash for Android` 等客户端。**
@@ -13,15 +13,15 @@
 
 
 ### 中国电信 Chinanet
-<details><summary>江苏省徐州市 电信: 高速 29 / 可用 64, 时间 2023-07-26 21:46:55, 本地速度 44 Mbps</summary><p>可用节点订阅：https://transfer.sh/9fEH9g3srq/running.txt<br>高速节点订阅：https://transfer.sh/GJHu0oJsPR/good.txt<br>低延迟节点订阅：https://transfer.sh/hOSphokuXt/low_delay.txt</p></details>
+<i>暂无数据, 本数据非电信网络环境测试</i>
+<details><summary>河南省许昌市 联通: 高速 15 / 可用 32, 时间 2023-08-07 14:17:25, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/L2L0pOlTSw/running.txt<br>高速节点订阅：https://transfer.sh/zB0WWjEg7O/good.txt<br>低延迟节点订阅：https://transfer.sh/mgTdwSaMVu/low_delay.txt</p></details>
 <p></p>
 
 ### 中国移动 Chinamobile
 <i>暂无数据, 本数据非移动网络环境测试</i>
-<details><summary>江苏省徐州市 电信: 高速 29 / 可用 64, 时间 2023-07-26 21:46:55, 本地速度 44 Mbps</summary><p>可用节点订阅：https://transfer.sh/9fEH9g3srq/running.txt<br>高速节点订阅：https://transfer.sh/GJHu0oJsPR/good.txt<br>低延迟节点订阅：https://transfer.sh/hOSphokuXt/low_delay.txt</p></details>
+<details><summary>河南省许昌市 联通: 高速 15 / 可用 32, 时间 2023-08-07 14:17:25, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/L2L0pOlTSw/running.txt<br>高速节点订阅：https://transfer.sh/zB0WWjEg7O/good.txt<br>低延迟节点订阅：https://transfer.sh/mgTdwSaMVu/low_delay.txt</p></details>
 <p></p>
 
 ### 中国联通 Chinaunicom
-<i>暂无数据, 本数据非联通网络环境测试</i>
-<details><summary>江苏省徐州市 电信: 高速 29 / 可用 64, 时间 2023-07-26 21:46:55, 本地速度 44 Mbps</summary><p>可用节点订阅：https://transfer.sh/9fEH9g3srq/running.txt<br>高速节点订阅：https://transfer.sh/GJHu0oJsPR/good.txt<br>低延迟节点订阅：https://transfer.sh/hOSphokuXt/low_delay.txt</p></details>
+<details><summary>河南省许昌市 联通: 高速 15 / 可用 32, 时间 2023-08-07 14:17:25, 本地速度 45 Mbps</summary><p>可用节点订阅：https://transfer.sh/L2L0pOlTSw/running.txt<br>高速节点订阅：https://transfer.sh/zB0WWjEg7O/good.txt<br>低延迟节点订阅：https://transfer.sh/mgTdwSaMVu/low_delay.txt</p></details>
 <p></p>
